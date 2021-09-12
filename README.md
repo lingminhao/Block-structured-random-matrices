@@ -1,4 +1,4 @@
-This a my thesis project at International Centre for Theoretical Physics (ICTP) Italy
+This a project I had done during my visit at International Centre for Theoretical Physics (ICTP), Trieste, Italy.
 
 # Block-structured-random-matrices
 
