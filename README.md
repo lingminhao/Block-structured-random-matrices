@@ -20,7 +20,10 @@ When we changed to model a huge biological system with 10000 species, the comput
 
 ## How to run the code 
 Step 1: Read [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the terminology. 
-Step 2: Open all python files 
-Step 3: Run BlockMatrices.py (you can change the values of the parameters)
+
+Step 2: Open all python files.
+
+Step 3: Run BlockMatrices.py (you can change the values of the parameters).
+
 
 Note that this code is only valid for biological systems that follows Gaussian distribution. You can change the distribution by modifying the function "SampleNormal" in BuildMatrices.py
