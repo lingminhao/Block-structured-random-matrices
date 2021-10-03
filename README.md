@@ -21,7 +21,7 @@ When we changed to model a huge biological interacting system among 10000 specie
 ## How to run the code 
 Step 1: Read [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the terminology. 
 
-Step 2: Open all python files.
+Step 2: Open all python scripts in [code](https://github.com/lingminhao/Block-structured-random-matrices/tree/main/code) file.
 
 Step 3: Run BlockMatrices.py (you can change the values of the parameters).
 
