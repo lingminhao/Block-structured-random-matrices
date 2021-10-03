@@ -8,13 +8,13 @@ Initially, Random Matrix Theory (RMT) was born due to Eugene Wigner in physics. 
 
 ## Summary of Results
 
-Here we modelled an example of synthetic huge biological system with 1000 species, 5 within system interactions using a random matrix. The coordinate axes represents the real and imaginary value of the eigenvalues. 
+Here we modelled an example of a synthetic biological interacting system among 1000 species (5 groups each of 200 species) using a random matrix. The coordinate axes represents the real and imaginary value of the eigenvalues. 
 
 As we can see below, we can find the eigenvalues by brute force (blue dots) or by using the results we derived using methodology from statistical physics (red lines + red dots). It is not surprising because 1000 is a relatively small number. 
 
 ![example](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/example.png)
 
-When we changed to model a huge biological system with 10000 species, the computer we used from ICTPs' with i7 processors and 8gb rams starts to perform poorly. Since we are only concerned with the rightmost eigenvalues, our methodology gives an accurate approximation (red lines + red dots). This method is way faster and efficient compared to brute force approach. Refer to [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the theory behind this method.  
+When we changed to model a huge biological interacting system among 10000 species, the computer we used from ICTPs' with i7 processors and 8gb rams starts to perform poorly. (In fact, the computer crashed when I modelled interactions among 40000 species). Since we are only concerned with the rightmost eigenvalues, our methodology gives an accurate approximation (red lines + red dots). This method is way faster and efficient compared to brute force approach. Refer to [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the theory behind this method.  
 
 ![advantage](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/advantage.png)
 
