@@ -17,3 +17,10 @@ As we can see below, we can find the eigenvalues by brute force (blue dots) or b
 When we changed to model a huge biological system with 10000 species, the computer we used from ICTPs' with i7 processors and 8gb rams starts to perform poorly. Since we are only concerned with the rightmost eigenvalues, our methodology gives an accurate approximation (red lines + red dots). This method is way faster and efficient compared to brute force approach. Refer to [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the theory behind this method.  
 
 ![advantage](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/advantage.png)
+
+## How to run the code 
+Step 1: Read [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the terminology. 
+Step 2: Open all python files 
+Step 3: Run BlockMatrices.py (you can change the values of the parameters)
+
+Note that this code is only valid for biological systems that follows Gaussian distribution. You can change the distribution by modifying the function "SampleNormal" in BuildMatrices.py
