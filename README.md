@@ -23,7 +23,7 @@ Step 1: Read [Report.pdf](https://github.com/lingminhao/Block-structured-random-
 
 Step 2: Open all python scripts in [code](https://github.com/lingminhao/Block-structured-random-matrices/tree/main/code) file.
 
-Step 3: Run BlockMatrices.py (you can change the values of the parameters).
+Step 3: Run [BlockMatrices.py](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/code/BlockMatrices.py) (you can change the values of the parameters).
 
 
 Note that this code is only valid for biological systems that follows Gaussian distribution. You can change the distribution by modifying the function "SampleNormal" in BuildMatrices.py
