@@ -16,3 +16,4 @@ As we can see, we can find the eigenvalues by brute force (blue dots) or by usin
 
 When we changed to model a huge biological system with 10000 species, the computer we used from ICTPs' with i7 processors and 8gb rams starts to perform poorly. Since we are only concerned with the rightmost eigenvalues, our methodology gives an accurate approximation (red lines + red dots). This method is way faster and efficient compared to brute force approach. Refer to Report.pdf to understand the theory behind this method.  
 
+![advantage](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/advantage.png)
