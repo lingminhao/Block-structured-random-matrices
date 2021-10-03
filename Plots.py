@@ -1,7 +1,8 @@
 
 ###### This is a function file to plot the observed and predicted eigenvalues of matrix M #########
 ##### The blue dots represents the observed eigenvalues #####
-##### The red lines represent the predicted region where the eigenvalues will lie inside and the red cross represents the predicted outlier eigenvalues of matrix M. #####
+##### The red lines represent the predicted region where the eigenvalues will lie inside and the
+##### The red cross represents the predicted outlier eigenvalues of matrix M. #####
 
 import matplotlib.pyplot as plt
 import numpy as np
