@@ -14,7 +14,7 @@ As we can see below, we can find the eigenvalues by brute force (blue dots) or b
 
 ![example](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/example.png)
 
-When we changed to model a huge biological interacting system among 10000 species, the computer we used from ICTPs' with i7 processors and 8gb rams starts to perform poorly. (In fact, the computer crashed when I modelled interactions among 40000 species). Since we are only concerned with the rightmost eigenvalues, our methodology gives an accurate approximation (red lines + red dots). This method is way faster and efficient compared to brute force approach. Refer to [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the theory behind this method.  
+When we changed to model a huge biological interacting system among 10000 species, the computer we used from ICTPs' with i7 processors and 8gb rams starts to perform poorly. (In fact, the computer crashed when I modelled interactions among 40000 species). Since we are only concerned with the rightmost eigenvalues, our methodology gives an accurate approximation (red lines + red dots). This method is way faster and efficient compared to brute force approach. Refer to [Report.pdf](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/Report.pdf) to understand the derivation behind this result.  
 
 ![advantage](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/advantage.png)
 
