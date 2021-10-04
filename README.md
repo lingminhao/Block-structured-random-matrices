@@ -10,7 +10,7 @@ Initially, Random Matrix Theory (RMT) was born due to Eugene Wigner in physics. 
 
 Here we modelled an example of a synthetic biological interacting system among 1000 species (5 groups each of 200 species) using a random matrix. The coordinate axes represents the real and imaginary value of the eigenvalues. 
 
-As we can see below, we can find the eigenvalues by brute force (blue dots) or by using the results we derived using methodology from statistical physics (red lines + red dots). It is not surprising because 1000 is a relatively small number. 
+As we can see below, we can find the eigenvalues by brute force (blue dots) or by using the results we derived using methodology from statistical physics (red lines + red dots). Yet, 1000 is a relatively small number. 
 
 ![example](https://github.com/lingminhao/Block-structured-random-matrices/blob/main/readme-images/example.png)
 
