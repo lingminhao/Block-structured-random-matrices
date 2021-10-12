@@ -1,4 +1,4 @@
-This is a project I had done during my visit at International Centre for Theoretical Physics (ICTP), Trieste, Italy.
+This is a project I had done during my visit at International Centre for Theoretical Physics (ICTP), Trieste, Italy under the supervision of Prof. Jacopo Grilli.
 
 # Block-structured-random-matrices
 
